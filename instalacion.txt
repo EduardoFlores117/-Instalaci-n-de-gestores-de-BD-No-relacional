@@ -1,2 +1,6 @@
 LINK DESCARGA VIDEO INSTALACION MONGODB
 https://bit.ly/install-mongo-db
+
+
+LINK DESCARGA VIDEO INSTALACION ORACLE
+bit.ly/install-oracle
